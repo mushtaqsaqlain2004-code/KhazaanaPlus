@@ -1,7 +1,6 @@
 # 🌟 Khazaana+ — Decentralized Note Storing System
-<p align="center">
-  <img src="./Screenshot%202025-10-29%20141511.png" alt="Khazaana+ Screenshot" width="600" />
-</p>
+<img width="1889" height="908" alt="Screenshot 2025-10-29 141511" src="https://github.com/user-attachments/assets/bec8df3c-a442-49e2-9022-eb4adcbf8cf6" />
+
 
 > **Your personal on-chain vault for notes — secure, transparent, and censorship-resistant.**
 
